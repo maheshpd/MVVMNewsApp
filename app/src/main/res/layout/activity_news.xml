@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".ui.NewsActivity">
 
+    <!--    0417dc907ce447cb95c9e93e0f9d905e-->
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
