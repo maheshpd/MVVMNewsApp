@@ -1,4 +1,4 @@
-package com.createsapp.mvvmnewsapp
+package com.createsapp.mvvmnewsapp.models
 
 
 import androidx.annotation.Keep

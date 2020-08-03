@@ -1,8 +1,8 @@
-package com.createsapp.mvvmnewsapp.dao
+package com.createsapp.mvvmnewsapp.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.createsapp.mvvmnewsapp.Article
+import com.createsapp.mvvmnewsapp.models.Article
 
 @Dao
 interface ArticleDao {
